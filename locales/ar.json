@@ -1,0 +1,17 @@
+{
+    "language": "اللغة",
+    "difficulty": "الصعوبة",
+    "sound": "الصوت",
+    "score": "النقاط",
+    "combo": "السلسلة",
+    "time": "الوقت",
+    "threshold": "الحد: {value}",
+    "smaller": "أصغر من {value}",
+    "atLeast": "{value} أو أكبر",
+    "correct": "صحيح!",
+    "incorrect": "ليست صحيحة — جرّب التالي.",
+    "accuracy": "الدقة: {value}٪",
+    "reset": "إعادة ضبط الإحصاءات",
+    "donate": "تبرّع",
+    "version": "الإصدار ١.٠.٠"
+}

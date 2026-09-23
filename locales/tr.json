@@ -1,0 +1,17 @@
+{
+    "language": "Dil",
+    "difficulty": "Zorluk",
+    "sound": "Ses",
+    "score": "Puan",
+    "combo": "Seri",
+    "time": "Süre",
+    "threshold": "Eşik: {value}",
+    "smaller": "{value} değerinden küçük",
+    "atLeast": "{value} veya büyük",
+    "correct": "Doğru!",
+    "incorrect": "Tam değil — sıradakini deneyin.",
+    "accuracy": "Doğruluk: %{value}",
+    "reset": "İstatistikleri sıfırla",
+    "donate": "Bağış yap",
+    "version": "Sürüm 1.0.0"
+}

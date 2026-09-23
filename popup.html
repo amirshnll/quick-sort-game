@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="stylesheet" href="css/popup.css">
+  <title>Quick Sort</title>
+</head>
+
+<body>
+  <main class="app" aria-live="polite">
+    <header>
+      <h1>Quick Sort</h1>
+    </header>
+    <section id="settings" class="settings" aria-label="Settings">
+      <label><span data-i18n="language">Language</span><select id="language"></select></label>
+      <label><span data-i18n="difficulty">Difficulty</span><select id="difficulty">
+          <option value="easy" data-i18n="easy">Easy</option>
+          <option value="normal" data-i18n="normal">Normal</option>
+          <option value="hard" data-i18n="hard">Hard</option>
+        </select></label>
+      <label class="switch"><input id="sound" type="checkbox"><span data-i18n="sound">Sound</span></label>
+    </section>
+    <section class="stats" aria-label="Game statistics">
+      <div><span data-i18n="score">Score</span><strong id="score">0</strong></div>
+      <div><span data-i18n="combo">Combo</span><strong id="combo">0</strong></div>
+      <div><span data-i18n="time">Time</span><strong id="time">—</strong></div>
+    </section>
+    <section class="game" aria-describedby="ruleDescription">
+      <p id="ruleDescription" class="rule"></p>
+      <div id="item" class="item" role="status" aria-live="assertive">—</div>
+      <p id="feedback" class="feedback" aria-live="assertive"></p>
+      <div class="controls" role="group" aria-label="Classification controls">
+        <button id="leftButton" class="choice left"><span class="key">← A</span><span id="leftLabel"></span></button>
+        <button id="rightButton" class="choice right"><span class="key">→ D</span><span id="rightLabel"></span></button>
+      </div>
+    </section>
+    <footer><span id="accuracyLabel"></span><button id="resetButton" class="link-button" data-i18n="reset">Reset
+        stats</button></footer>
+    <div class="extension-meta"><a href="https://ashokri.com/donate/" target="_blank" rel="noopener noreferrer"
+        data-i18n="donate">Donate</a><span aria-hidden="true">-</span><span data-i18n="version">Version 1.0.0</span>
+    </div>
+  </main>
+  <script type="module" src="js/popup.js"></script>
+</body>
+
+</html>

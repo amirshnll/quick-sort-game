@@ -1,0 +1,17 @@
+{
+    "language": "Språk",
+    "difficulty": "Svårighetsgrad",
+    "sound": "Ljud",
+    "score": "Poäng",
+    "combo": "Kombination",
+    "time": "Tid",
+    "threshold": "Tröskel: {value}",
+    "smaller": "Mindre än {value}",
+    "atLeast": "{value} eller större",
+    "correct": "Rätt!",
+    "incorrect": "Inte riktigt — prova nästa.",
+    "accuracy": "Träffsäkerhet: {value}%",
+    "reset": "Återställ statistik",
+    "donate": "Donera",
+    "version": "Version 1.0.0"
+}

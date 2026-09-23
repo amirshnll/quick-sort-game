@@ -1,0 +1,17 @@
+{
+    "language": "언어",
+    "difficulty": "난이도",
+    "sound": "소리",
+    "score": "점수",
+    "combo": "콤보",
+    "time": "시간",
+    "threshold": "기준값: {value}",
+    "smaller": "{value}보다 작음",
+    "atLeast": "{value} 이상",
+    "correct": "정답!",
+    "incorrect": "조금 아쉬워요 — 다음을 시도하세요.",
+    "accuracy": "정확도: {value}%",
+    "reset": "통계 초기화",
+    "donate": "후원",
+    "version": "버전 1.0.0"
+}

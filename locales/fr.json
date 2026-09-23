@@ -1,0 +1,17 @@
+{
+    "language": "Langue",
+    "difficulty": "Difficulté",
+    "sound": "Son",
+    "score": "Score",
+    "combo": "Série",
+    "time": "Temps",
+    "threshold": "Seuil : {value}",
+    "smaller": "Inférieur à {value}",
+    "atLeast": "{value} ou plus",
+    "correct": "Correct !",
+    "incorrect": "Pas tout à fait — essayez le suivant.",
+    "accuracy": "Précision : {value} %",
+    "reset": "Réinitialiser les statistiques",
+    "donate": "Faire un don",
+    "version": "Version 1.0.0"
+}

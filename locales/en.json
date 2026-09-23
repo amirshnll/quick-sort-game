@@ -1,0 +1,17 @@
+{
+    "language": "Language",
+    "difficulty": "Difficulty",
+    "sound": "Sound",
+    "score": "Score",
+    "combo": "Combo",
+    "time": "Time",
+    "threshold": "Threshold: {value}",
+    "smaller": "Smaller than {value}",
+    "atLeast": "{value} or greater",
+    "correct": "Correct!",
+    "incorrect": "Not quite — try the next one.",
+    "accuracy": "Accuracy: {value}%",
+    "reset": "Reset stats",
+    "donate": "Donate",
+    "version": "Version 1.0.0"
+}

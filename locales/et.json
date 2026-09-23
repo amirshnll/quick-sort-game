@@ -1,0 +1,17 @@
+{
+    "language": "Keel",
+    "difficulty": "Raskusaste",
+    "sound": "Heli",
+    "score": "Punktid",
+    "combo": "Kombinatsioon",
+    "time": "Aeg",
+    "threshold": "Lävi: {value}",
+    "smaller": "Väiksem kui {value}",
+    "atLeast": "{value} või suurem",
+    "correct": "Õige!",
+    "incorrect": "Mitte päris — proovi järgmist.",
+    "accuracy": "Täpsus: {value}%",
+    "reset": "Lähtesta statistika",
+    "donate": "Anneta",
+    "version": "Versioon 1.0.0"
+}

@@ -1,0 +1,17 @@
+{
+    "language": "Sprache",
+    "difficulty": "Schwierigkeit",
+    "sound": "Ton",
+    "score": "Punkte",
+    "combo": "Serie",
+    "time": "Zeit",
+    "threshold": "Schwelle: {value}",
+    "smaller": "Kleiner als {value}",
+    "atLeast": "{value} oder größer",
+    "correct": "Richtig!",
+    "incorrect": "Nicht ganz — weiter zum nächsten.",
+    "accuracy": "Genauigkeit: {value} %",
+    "reset": "Statistik zurücksetzen",
+    "donate": "Spenden",
+    "version": "Version 1.0.0"
+}

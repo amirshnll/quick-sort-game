@@ -1,0 +1,17 @@
+{
+    "language": "زبان",
+    "difficulty": "سختی",
+    "sound": "صدا",
+    "score": "امتیاز",
+    "combo": "زنجیره",
+    "time": "زمان",
+    "threshold": "آستانه: {value}",
+    "smaller": "کوچک‌تر از {value}",
+    "atLeast": "{value} یا بیشتر",
+    "correct": "درست!",
+    "incorrect": "درست نبود — مورد بعدی را امتحان کنید.",
+    "accuracy": "دقت: {value}٪",
+    "reset": "بازنشانی آمار",
+    "donate": "حمایت مالی",
+    "version": "نسخه ۱.۰.۰"
+}

@@ -1,0 +1,17 @@
+{
+    "language": "言語",
+    "difficulty": "難易度",
+    "sound": "サウンド",
+    "score": "スコア",
+    "combo": "コンボ",
+    "time": "時間",
+    "threshold": "しきい値: {value}",
+    "smaller": "{value} 未満",
+    "atLeast": "{value} 以上",
+    "correct": "正解！",
+    "incorrect": "惜しい！次を試してみよう。",
+    "accuracy": "正確さ: {value}%",
+    "reset": "統計をリセット",
+    "donate": "寄付",
+    "version": "バージョン 1.0.0"
+}
